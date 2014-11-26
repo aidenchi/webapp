@@ -1,0 +1,32 @@
+﻿[
+  {"restaurant":"餐厅一",
+   "food":[
+	{"food_name":"汉堡一", "prince":"10"},
+	{"food_name":"汉堡二", "prince":"11"},
+	{"food_name":"汉堡三", "prince":"12"}]
+  },
+  {"restaurant":"餐厅二",
+   "food":[
+	{"food_name":"盖饭一", "prince":"10"},
+	{"food_name":"盖饭二", "prince":"11"},
+	{"food_name":"盖饭三", "prince":"12"}]
+  },
+  {"restaurant":"餐厅三",
+   "food":[
+	{"food_name":"煲仔饭一", "prince":"10"},
+	{"food_name":"煲仔饭二", "prince":"11"},
+	{"food_name":"煲仔饭三", "prince":"12"}]
+  },
+  {"restaurant":"餐厅四",
+   "food":[
+	{"food_name":"瓦罐汤一", "prince":"10"},
+	{"food_name":"瓦罐汤二", "prince":"11"},
+	{"food_name":"瓦罐汤三", "prince":"12"}]
+  },
+  {"restaurant":"餐厅五",
+   "food":[
+	{"food_name":"牛肉面一", "prince":"10"},
+	{"food_name":"牛肉面二", "prince":"11"},
+	{"food_name":"牛肉面三", "prince":"12"}]
+  }
+]
