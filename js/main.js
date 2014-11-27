@@ -94,6 +94,7 @@
 	});
 });
 
+//加载订单
 function getOrders(){	
 	var orderlist = $.jStorage.index();
 	//alert(orderlist.length+"--"+orderlist[0]+"--"+orderlist[1]);	
