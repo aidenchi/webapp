@@ -1,32 +1,22 @@
 ﻿[
-  {"restaurant":"餐厅一",
+  {"restaurant":"肯德基",
    "food":[
-	{"food_name":"汉堡一", "prince":"10"},
-	{"food_name":"汉堡二", "prince":"11"},
-	{"food_name":"汉堡三", "prince":"12"}]
+	{"food_name":"培根鸡腿燕麦堡套餐", "price":"32.5"},
+	{"food_name":"香辣鸡腿堡餐", "price":"31.5"},
+	{"food_name":"至珍全虾堡餐", "price":"31.0"},
+	{"food_name":"新奥尔良烤鸡腿堡餐", "price":"32.0"}]
   },
-  {"restaurant":"餐厅二",
+  {"restaurant":"麦当劳",
    "food":[
-	{"food_name":"盖饭一", "prince":"10"},
-	{"food_name":"盖饭二", "prince":"11"},
-	{"food_name":"盖饭三", "prince":"12"}]
+	{"food_name":"双层阿拉斯加狭鳕鱼堡", "price":"22.0"},
+	{"food_name":"经典麦辣鸡腿汉堡", "price":"15.5"},
+	{"food_name":"培根蔬萃双层牛堡", "price":"19.5"}]
   },
-  {"restaurant":"餐厅三",
+  {"restaurant":"蔡林记",
    "food":[
-	{"food_name":"煲仔饭一", "prince":"10"},
-	{"food_name":"煲仔饭二", "prince":"11"},
-	{"food_name":"煲仔饭三", "prince":"12"}]
-  },
-  {"restaurant":"餐厅四",
-   "food":[
-	{"food_name":"瓦罐汤一", "prince":"10"},
-	{"food_name":"瓦罐汤二", "prince":"11"},
-	{"food_name":"瓦罐汤三", "prince":"12"}]
-  },
-  {"restaurant":"餐厅五",
-   "food":[
-	{"food_name":"牛肉面一", "prince":"10"},
-	{"food_name":"牛肉面二", "prince":"11"},
-	{"food_name":"牛肉面三", "prince":"12"}]
+	{"food_name":"蔡林记虾仁热干面", "price":"12.0"},
+	{"food_name":"蔡林记牛肉热干面", "price":"10.0"},
+	{"food_name":"蔡林记灌汤蒸饺", "price":"10.0"},
+	{"food_name":"蔡林记煎包", "price":"10.0"}]
   }
 ]
